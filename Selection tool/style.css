@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+
+body{
+    margin: 0 auto;
+    max-width: 50em;
+    /* max-width: 50vw */
+  }
+
+  body {
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+  body {
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+  
+  h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+
+  body {
+    color: #555;
+  }
+
+  h1,
+  strong {
+  color: #1e1e1e;
+  }
+
+  h2, strong {
+    color: #555;
+  }
+
+  body {
+    color: #566b78;
+  }
+  
+
+  header {
+    background-color: #ffffff;
+    background-image: url("Selection Tool3.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    line-height: 1.2;
+    padding: 10vw 2em;
+    text-align: right;
+  }
+
+  img{
+    width: 100%;
+  }
